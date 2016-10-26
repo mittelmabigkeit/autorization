@@ -6,3 +6,6 @@
  * Time: 14:33
  */
 
+echo "control panel";
+
+?>
